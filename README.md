@@ -1,4 +1,4 @@
-# RasberryPi-NeoPixels-And-Networktables
+# RaspberryPi-NeoPixels-And-Networktables
 
 OnPi.kermit.py is the file on the RaspberryPi that runs the lights.
 
